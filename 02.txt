@@ -1,0 +1,2 @@
+1. Boolean is a primitive data type commonly used in computer programming languages.
+2. A boolean expression is an expression that results in a boolean value, that is, in a value of either true or false 
